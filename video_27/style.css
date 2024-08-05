@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+    color: aqua;
+    
+}
+
+h1{
+    font-size: 50px;
+    color: orange;
+}
+
+.song_title {
+    font-style: italic;
+}
+
+.song_name {
+    font-size: 20px;
+    color: aliceblue;
+    font-style: normal;
+}
+
+.top_1{
+    color: beige;
+}
+
+#noi_nay_co_anh{
+    text-transform: uppercase;
+}

@@ -1,0 +1,7 @@
+*{
+    background-color: black;
+    color: aliceblue;
+    
+}
+
+/* When use "*", it's affect is wider than "body"  */

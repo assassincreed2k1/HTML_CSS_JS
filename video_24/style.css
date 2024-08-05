@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+    color: antiquewhite;
+    text-align: center;
+}
+
+h1{
+    font-size: 50px ;
+    font-style: italic;
+}
+
+h2{
+    /* display: none; */
+    /* visibility: hidden; */
+    opacity: 10%;
+    font-size: 45px;
+}
+
+h3{
+    font-size: 40px;
+}
