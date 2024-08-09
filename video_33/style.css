@@ -1,0 +1,30 @@
+*{
+    background-color: black;
+    color: aquamarine;
+}
+
+a:link {
+    color: blue;
+}
+
+a:visited {
+    color: red;
+}
+
+h1:hover, a:hover{
+    color: tomato;
+}
+
+h1:active {
+    color: red;
+}
+
+#nghia_web:hover{
+    color: green;
+    font-size: 30px;
+}
+
+#home:target{
+    color: green;
+
+}
