@@ -1,0 +1,21 @@
+* {
+    background-color: black;
+    color: aliceblue;
+}
+
+h1,
+h2 {
+    color: brown;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h3,
+.introduce {
+    color: aquamarine;
+    font-style: italic;
+}
+
+.introduce.name {
+    color: bisque;
+    text-transform: uppercase;
+}

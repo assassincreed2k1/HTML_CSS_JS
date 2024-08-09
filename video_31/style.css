@@ -1,0 +1,16 @@
+*{
+    background-color: black;
+    color: white;
+}
+
+h2+h3{
+    color: blue;
+}
+
+.hello+p{
+    color: brown;
+}
+
+h3~p{
+    color: blueviolet;
+}

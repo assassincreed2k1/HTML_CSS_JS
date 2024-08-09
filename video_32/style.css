@@ -1,0 +1,16 @@
+*{
+    background-color: black;
+    color: aquamarine;
+}
+
+[href]{
+    color: blueviolet;
+}
+
+a[href]{
+    color: brown;
+}
+
+a[target="_blank"]{
+    color: aliceblue;
+}

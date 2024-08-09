@@ -1,0 +1,20 @@
+*{
+    background-color: black;
+    color: aqua;
+}
+
+h1{
+    font-style: italic;
+}
+
+h3 p.phrase{
+    color: bisque;
+}
+
+h3 p{
+    color: blue;
+}
+
+h2>p{
+    color: beige;
+}
