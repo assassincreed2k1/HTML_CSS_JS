@@ -1,0 +1,31 @@
+* {
+    background-color: black;
+    color: aquamarine;
+}
+
+a.empty_status {
+    width: 200px;
+    height: 200px;
+    background-color: burlywood;
+    display: block;
+}
+
+p.empty_status:empty {
+    width: 200px;
+    height: 200px;
+    background-color:cadetblue;
+}
+
+a
+{
+    color: brown;
+}
+
+:target{
+    color: blue;
+}
+
+
+/*  If u want to color the "a card" you must set "display: block"
+    Don't need to set display if you use another card!
+*/
