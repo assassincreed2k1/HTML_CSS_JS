@@ -1,0 +1,17 @@
+*{
+    background-color: black;
+    color: aqua;
+}
+
+p:first-of-type{
+    color: brown;
+}
+
+p:nth-of-type(3n+2)
+{
+    color: beige;
+}
+
+p:only-of-type{
+    color: blue;
+}
