@@ -1,0 +1,9 @@
+*{
+    background-color: black;
+    color: aqua;
+}
+
+#cute_dog:not(p){
+    border: 5px solid brown;
+    border-radius: 200px;
+}

@@ -1,0 +1,12 @@
+*{
+    background-color: black;
+    color: aqua;
+}
+
+.redd:not(p){
+    color: red;
+}
+
+#bluee:not(h1, h2){
+    color: blue;
+}

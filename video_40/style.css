@@ -1,0 +1,17 @@
+* {
+    background-color: black;
+    color: aqua;
+}
+
+#cute_dog {
+    background-color: brown;
+    padding: 10px;
+}
+
+p#cute_dog {
+    width: 100px;
+    height: 100px;
+    background-color: brown;
+    padding: 20px;
+
+}

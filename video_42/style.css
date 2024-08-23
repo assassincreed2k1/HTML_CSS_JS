@@ -1,0 +1,13 @@
+*{
+    background-color: black;
+    color: aqua;
+}
+
+.box{
+    width: 200px;
+    height: 200px;
+    background-color: brown;
+    padding: 40px;
+    border: 10px solid blue;
+    margin: 20px;
+}
