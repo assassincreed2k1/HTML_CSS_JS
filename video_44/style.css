@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+    color: aqua;
+}
+
+.margin{
+    width: 500px;
+    height: 250px;
+    background-color: rgb(25, 1, 1);
+    margin: 0 auto;
+    text-align: center;
+    padding: 5px 0px 20px 0px;
+    border: 5px solid blue;
+}
+
+.avatar{
+    margin-left: -65px;
+    border-radius: 50%;
+}
+
+.first_avatar {
+    border-radius: 50%;
+}
+
+
